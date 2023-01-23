@@ -51,6 +51,13 @@ const NavigationBar = ({ wallet }) => {
                   New Proposal
                 </NavLink>
               </Nav.Link>
+              <Nav.Link
+                href="https://dvgwt-taaaa-aaaag-qbr2a-cai.raw.ic0.app/"
+                target="_blank"
+                className="mx-3 text-light"
+              >
+                Our WebPage!
+              </Nav.Link>
             </Nav>
           )}
 
